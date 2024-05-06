@@ -165,8 +165,6 @@ vi)Image Cropping
 ![6](https://github.com/BALA291/IMAGE-TRANSFORMATIONS/assets/120717501/0610428a-7c5d-4ebb-a64b-66ffefeb0d8c)
 
 
-## Output:
-
 ## Result: 
 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
