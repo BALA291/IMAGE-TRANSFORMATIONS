@@ -32,7 +32,7 @@ Display the modified image output.
 End the program.
 
 ## Program:
-```
+
 ```python
 Developed By: BALAMURUGAN B
 Register Number: 212222230016
@@ -165,8 +165,6 @@ vi)Image Cropping
 ![6](https://github.com/BALA291/IMAGE-TRANSFORMATIONS/assets/120717501/0610428a-7c5d-4ebb-a64b-66ffefeb0d8c)
 
 
-
-```
 ## Output:
 
 ## Result: 
