@@ -139,29 +139,29 @@ plt.imshow(cropped_img)
 ```
 
 ## Output:
-i)Image Translation
+### i)Image Translation
 ![1](https://github.com/BALA291/IMAGE-TRANSFORMATIONS/assets/120717501/e6f39c28-a4b1-4219-af8e-738402fd49a2)
 
 
-ii) Image Scaling
+### ii) Image Scaling
 ![2](https://github.com/BALA291/IMAGE-TRANSFORMATIONS/assets/120717501/16773e43-07bb-434a-8666-b39c31d945a7)
 
 
-iii)Image shearing
+### iii)Image shearing
 ![3](https://github.com/BALA291/IMAGE-TRANSFORMATIONS/assets/120717501/519a29f9-1797-42fb-b738-cd78dc87c538)
 
 
-iv)Image Reflection
+### iv)Image Reflection
 ![4](https://github.com/BALA291/IMAGE-TRANSFORMATIONS/assets/120717501/852cb22b-1d10-4320-a857-68b3181dea44)
 
 
 
-v)Image Rotation
+### v)Image Rotation
 ![2](https://github.com/BALA291/IMAGE-TRANSFORMATIONS/assets/120717501/70148465-95b2-4057-9812-4d6abe20963f)
 
 
 
-vi)Image Cropping
+### vi)Image Cropping
 ![6](https://github.com/BALA291/IMAGE-TRANSFORMATIONS/assets/120717501/0610428a-7c5d-4ebb-a64b-66ffefeb0d8c)
 
 
